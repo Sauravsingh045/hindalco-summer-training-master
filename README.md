@@ -1,1 +1,1 @@
-# hindalco-summer-training-master
+# hindalco-summer-training
